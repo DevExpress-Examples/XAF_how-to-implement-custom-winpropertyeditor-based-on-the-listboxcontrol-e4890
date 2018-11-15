@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Updater.cs](./CS/CustomListBoxPropertyEditor.Module.Win/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/CustomListBoxPropertyEditor.Module.Win/DatabaseUpdate/Updater.vb))
+* [CustomListBoxEditor.cs](./CS/CustomListBoxPropertyEditor.Module.Win/Editors/CustomListBoxEditor.cs) (VB: [CustomListBoxEditor.vb](./VB/CustomListBoxPropertyEditor.Module.Win/Editors/CustomListBoxEditor.vb))
+<!-- default file list end -->
 # How to implement custom WinPropertyEditor based on the ListBoxControl
 
 
